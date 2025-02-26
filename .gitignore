@@ -1,0 +1,4 @@
+*.MOV
+*.mp4
+Report.pdf
+__pycache__/
