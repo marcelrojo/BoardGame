@@ -1,6 +1,10 @@
 # Greed On The Grid  
   
 Aim of the project is to implemenet a system that recognizes the state of gameplay of the game Greed On The Grid  
+
+## Authors 
+- [Julia](https://github.com/julkalorenz)
+- [Marcel](https://github.com/marcelrojo)
   
 ## Game Description:
 
